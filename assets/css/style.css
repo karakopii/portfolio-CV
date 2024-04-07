@@ -370,7 +370,7 @@ h3{
     font-size: 8rem;
     text-align: center;
     margin: 5rem 0;
-    color: black;
+    color: #777;
 }
 
 .education {
@@ -380,7 +380,7 @@ h3{
 
 .education h2 {
     margin-bottom: 2rem; /* Adjusted margin */
-    font-size: 3rem; /* Adjusted font size */
+    font-size: 1.5rem; /* Adjusted font size */
 }
 
 .timeline-items {
